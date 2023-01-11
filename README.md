@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Henrique 
+# Hi there 👋 I'm Henrique 
 
-## I'm a Full Stack Developer 
+### I'm a Full Stack Developer 
 
 <p>🔭 I’m currently working on Instituto das Cidades Inteligentes</p><br>
 <p>🌱 I’m currently learning new technology's </p><br>
