@@ -6,5 +6,5 @@
 <p>🌱 I’m currently learning new technology's </p>
 <p>👯 I’m looking to collaborate on open code projects</p>
 
-<img src="{https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white}"/>
+<img src="{https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white}" />
 
